@@ -1,0 +1,2 @@
+PORT=3020
+MONGODB_URI=mongodb+srv://prajyot:pass29012003@cluster0.w6dlo.mongodb.net
